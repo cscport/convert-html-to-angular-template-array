@@ -25,3 +25,6 @@ $ node html2nga.js <source html> <output directory>
 If no output directory is provided, then it writes to the current directory with a randomly generated filename.
 
 This project is still very early, so it is still basic in terms of features and user experience.
+
+TODO:
+* Add escaping for single quotation marks.
