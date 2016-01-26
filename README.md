@@ -19,7 +19,7 @@ With this module, write plain html, and convert it to a Angular template array.
 
 To use:
 ```
-$ html2nga.js <source html> <output directory>
+$ node html2nga.js <source html> <output directory>
 ```
 
 If no output directory is provided, then it writes to the current directory with a randomly generated filename.
